@@ -84,7 +84,11 @@ div#accordionExample {
 }
 footer.page-footer a{
 
-  color: #ffffff
+  color: #ffffffc2;
+}
+.navbar-toggler{
+background-color: #ffffff;
+
 }
  
 /* Loader */
