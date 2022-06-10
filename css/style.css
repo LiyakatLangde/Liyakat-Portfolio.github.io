@@ -7,9 +7,9 @@
 }
 footer.page-footer {
   background: black;
-  position: sticky;
-  bottom: 0;
   width: 100%;
+  position: absolute;
+    bottom: -75px;
 }
 footer p,footer h5{
 
