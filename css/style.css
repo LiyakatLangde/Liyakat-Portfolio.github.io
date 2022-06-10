@@ -8,8 +8,8 @@
 footer.page-footer {
   background: black;
   width: 100%;
-  position: absolute;
-    bottom: -75px;
+  position: fixed;
+    bottom: 0;
 }
 footer p,footer h5{
 
