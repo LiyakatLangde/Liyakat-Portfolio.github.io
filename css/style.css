@@ -8,7 +8,7 @@
 footer.page-footer {
   background: black;
   width: 100%;
-  position: fixed;
+  position: sticky;
     bottom: 0;
 }
 footer p,footer h5{
